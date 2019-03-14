@@ -1,5 +1,4 @@
 # Гайдо по структурированию реакт приложений
-## Альтернативный гайд  [click](https://github.com/zhDmitry/react-guide/blob/master/Feature.md) 
 ## Структура проекта
 Пример реального проекта [click](https://github.com/goodmind/treact)
 ```
